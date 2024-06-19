@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebSocketServer</string>
+    <string name="button_label">START WEBSOCKET SERVER</string>
+</resources>
